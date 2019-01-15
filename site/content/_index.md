@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Improve faster with low-cost prototypes and monitoring."
+subtitle: Support sustainable development using opensource and fair hiring.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?
