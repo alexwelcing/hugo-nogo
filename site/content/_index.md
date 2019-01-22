@@ -3,8 +3,8 @@ title: "Improve faster with low-cost prototypes and monitoring."
 subtitle: Support sustainable development using opensource and fair hiring.
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Is opensource really sustainable?
+    text: "Knowing we are just one development cell in a fast evolving code ecosystem, we collaborate with leaders at Microsoft, Facebook, and Google by using opensource projects and tools such as VS Code, React, and Kubernetes respectively. This keeps us up to date with the industry, and allows us to contribute to projects used by thousands of organizations."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
