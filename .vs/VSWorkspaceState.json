@@ -1,6 +1,21 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bin",
+    "\\site",
+    "\\site\\content",
+    "\\site\\content\\post",
+    "\\site\\content\\products",
+    "\\site\\content\\values",
+    "\\site\\layouts",
+    "\\site\\layouts\\partials",
+    "\\site\\layouts\\post",
+    "\\site\\layouts\\_default",
+    "\\site\\static",
+    "\\site\\static\\img",
+    "\\src\\css",
+    "\\src\\css\\imports"
   ],
+  "SelectedNode": "\\site\\static\\img\\blog-index.jpg",
   "PreviewInSolutionExplorer": false
 }
