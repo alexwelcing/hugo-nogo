@@ -1,7 +1,7 @@
 ---
 title: "Making a person centered enpoint system for accessibility"
 date: 2019-03-04T15:04:10.000Z
-description: The radical accessibility improvements promised by AI, speak to text, auto-labeling, new ways to touch/read content that used to be out of reach, are dependent on architecture that makes deploying and improving ML models on a rolliing basis.
+description: The radical accessibility improvements promised by AI: speak to text, auto-labeling, and new ways to touch/read content, are dependent on architecture that makes deploying and improving ML models on a rolliing basis.
 image: /img/ChromeBook_Benefits.png
 ---
 
