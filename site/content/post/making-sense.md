@@ -1,8 +1,8 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
-image: /img/blog-flavor_wheel.jpg
+title: "Making a person centered enpoint system for accessibility"
+date: 2019-03-04T15:04:10.000Z
+description: The radical accessibility improvements promised by AI, speak to text, auto-labeling, new ways to touch/read content that used to be out of reach, are dependent on architecture that makes deploying and improving ML models on a rolliing basis.
+image: /img/ChromeBook_Benefits.png
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.

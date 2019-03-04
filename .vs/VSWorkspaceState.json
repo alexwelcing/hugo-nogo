@@ -9,13 +9,8 @@
     "\\site\\content\\values",
     "\\site\\layouts",
     "\\site\\layouts\\partials",
-    "\\site\\layouts\\post",
-    "\\site\\layouts\\_default",
-    "\\site\\static",
-    "\\site\\static\\img",
-    "\\src\\css",
-    "\\src\\css\\imports"
+    "\\site\\layouts\\post"
   ],
-  "SelectedNode": "\\site\\static\\img\\blog-index.jpg",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
