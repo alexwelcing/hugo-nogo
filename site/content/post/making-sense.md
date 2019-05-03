@@ -1,27 +1,16 @@
 ---
-title: "Making a person centered enpoint system for accessibility"
-date: 2019-03-04T15:04:10.000Z
-description: The radical accessibility improvements promised by AI: speak to text, auto-labeling, and new ways to touch/read content, are dependent on architecture that makes deploying and improving ML models on a rolliing basis.
-image: /img/ChromeBook_Benefits.png
+title: Project Requirements
+date: 2019-05-03T13:19:32.114Z
+description: >-
+  Context: We are writing a roadmap of strategies to respond to the opioid
+  crisis targeted to state Medicaid program leadership.
+image: /img/backcasting.png
 ---
+* We believe that the best way to disseminate this detailed and complex content will be through an interactive web-based product.
+* Roadmap content will include text, graphs, and tables.
+* We would envision a clickable menu of strategies, where the user would be able to find content organized by topic, and click on individual links to pull content of interest (on the screen, not as a download).
+* Sections would embed cross-links to other relevant sections so users do not have to go back to the homepage to navigate to other relevant information.
+* Data tables would be embedded as graphics within relevant sections, but also accessible through links taking users straight to the tables.
+* The product should be tagged in a way that users can easily search for content.
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
-
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
-
-## What the updates mean to you
-
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
-
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
-
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
-
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/6f8b50b703cf4a6188a8144ab4a68907" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
